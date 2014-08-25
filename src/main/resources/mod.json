@@ -1,0 +1,6 @@
+{
+ "main":"jhc.data.orient.OrientDBVerticle",
+ "worker":true,
+ "multi-threaded":true,
+ "description":"Starts and manages OrientDb"
+}
